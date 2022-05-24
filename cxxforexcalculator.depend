@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653370074 source:/home/steven/Documents/C Files/cxxforexcalculator/main.cpp
+	<iostream>
+	<iomanip>
+
